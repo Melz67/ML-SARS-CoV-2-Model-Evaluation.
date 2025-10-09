@@ -124,7 +124,9 @@ This research served as the **conceptual foundation** for representing genomic d
 
 ## 🔗 Resources
 📓 Google Colab Notebook (Full Implementation):  
-[**Open in Colab**](PUT_YOUR_NOTEBOOK_LINK_HERE)
+
+[`Metagenomics & AI Software Team 3.ipynb.ipynb`](Metagenomics & AI Software Team 3.ipynb.ipynb)
+
 
 ---
 
